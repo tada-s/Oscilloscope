@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1417056070 source:c:\users\tadashi\documents\codeblocksprojects\osciloscope\main.cpp
+	"main.h"
+
+1411189206 source:c:\users\tadashi\documents\codeblocksprojects\osciloscope\graphic.cpp
+	"Graphic.h"
+
+1411189415 c:\users\tadashi\documents\codeblocksprojects\osciloscope\graphic.h
+	<windows.h>
+
+1411189930 c:\users\tadashi\documents\codeblocksprojects\osciloscope\wndproc.h
+	<windows.h>
+	<stdio.h>
+
+1411189961 source:c:\users\tadashi\documents\codeblocksprojects\osciloscope\wndproc.cpp
+	"wndproc.h"
+
+1411191015 c:\users\tadashi\documents\codeblocksprojects\osciloscope\draw.h
+	<gl/gl.h>
+
+1412016176 c:\users\tadashi\documents\codeblocksprojects\osciloscope\main.h
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	"src/graphic.h"
+	"src/wndproc.h"
+	"src/draw.h"
+
+1411189415 c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\graphic\graphic.h
+	<windows.h>
+
+1411189930 c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\wndproc\wndproc.h
+	<windows.h>
+	<stdio.h>
+
+1411191015 c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\draw\draw.h
+	<gl/gl.h>
+
+1411189415 c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\graphic.h
+	<windows.h>
+
+1411220040 c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\wndproc.h
+	<windows.h>
+	<stdio.h>
+	"wndproc_input.h"
+
+1443039554 c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\draw.h
+	<gl/gl.h>
+	<math.h>
+	<stdlib.h>
+
+1420598095 source:c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\draw.cpp
+	"draw.h"
+
+1411189206 source:c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\graphic.cpp
+	"Graphic.h"
+
+1411220234 source:c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\wndproc.cpp
+	"wndproc.h"
+
+1411221194 c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\wndproc_input.h
+	<windows.h>
+	<stdio.h>
+
+1411225611 source:c:\users\tadashi\documents\codeblocksprojects\osciloscope\src\wndproc_input.cpp
+	"wndproc_input.h"
+
+1417056070 source:c:\users\tadashi\documents\codeblocksproject\osciloscope\main.cpp
+	"main.h"
+
+1412016176 c:\users\tadashi\documents\codeblocksproject\osciloscope\main.h
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	"src/graphic.h"
+	"src/wndproc.h"
+	"src/draw.h"
+
+1411189415 c:\users\tadashi\documents\codeblocksproject\osciloscope\src\graphic.h
+	<windows.h>
+
+1411220040 c:\users\tadashi\documents\codeblocksproject\osciloscope\src\wndproc.h
+	<windows.h>
+	<stdio.h>
+	"wndproc_input.h"
+
+1411221194 c:\users\tadashi\documents\codeblocksproject\osciloscope\src\wndproc_input.h
+	<windows.h>
+	<stdio.h>
+
+1443039554 c:\users\tadashi\documents\codeblocksproject\osciloscope\src\draw.h
+	<gl/gl.h>
+	<math.h>
+	<stdlib.h>
+
+1443039759 source:c:\users\tadashi\documents\codeblocksproject\osciloscope\src\draw.cpp
+	"draw.h"
+
+1411189206 source:c:\users\tadashi\documents\codeblocksproject\osciloscope\src\graphic.cpp
+	"Graphic.h"
+
+1411220234 source:c:\users\tadashi\documents\codeblocksproject\osciloscope\src\wndproc.cpp
+	"wndproc.h"
+
+1411225611 source:c:\users\tadashi\documents\codeblocksproject\osciloscope\src\wndproc_input.cpp
+	"wndproc_input.h"
+
